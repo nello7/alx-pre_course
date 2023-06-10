@@ -1,1 +1,3 @@
-echo ALX
+rm alx
+mv echo "ALX School"
+
